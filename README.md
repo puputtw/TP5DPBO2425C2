@@ -37,5 +37,5 @@ kondisi → atribut yang menyatakan apakah barang baru atau bekas
 
 # Bukti Dokumentasi:
 
-![](Dokumentasi/buktii.tp5.mp4)
+(Dokumentasi/buktii%20tp5.mp4)
 
