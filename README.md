@@ -35,5 +35,6 @@ kondisi → atribut yang menyatakan apakah barang baru atau bekas
 -Tombol Cancel digunakan untuk mengosongkan semua field input agar siap diisi data baru.
 
 Bukti Dokumentasi:
-![](Dokumentasi/buktii.tp5.mp4
+
+![](Dokumentasi/buktii.tp5.mp4)
 
