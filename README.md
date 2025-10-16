@@ -26,6 +26,7 @@ kondisi → atribut yang menyatakan apakah barang baru atau bekas
 
 # Alur Program:
 
+
 -Saat program dijalankan, akan muncul jendela utama dengan form input dan tabel produk.
 -user dapat add data, update dan delete melalui tombol yang tersedia
 -data atau perubahan ata akan disimpan dan diperbarui di database
@@ -34,6 +35,7 @@ kondisi → atribut yang menyatakan apakah barang baru atau bekas
 -Semua data produk ditampilkan dalam tabel (JTable) dan selalu disinkronkan dengan isi database MySQL.
 -Tombol Cancel digunakan untuk mengosongkan semua field input agar siap diisi data baru.
 
-Bukti Dokumentasi:
+# Bukti Dokumentasi:
+
 ![](Dokumentasi/buktii.tp5.mp4)
 
